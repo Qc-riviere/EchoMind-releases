@@ -43,7 +43,7 @@ EchoMind 是一款定位为「灵感笔记」的桌面 + 微信跨端 App：
 
 | 平台 | 包名 | 安装提示 |
 |---|---|---|
-| Windows 10/11 (x64) | `EchoMind_x.y.z_x64-setup.msi` | 双击安装；首次启动 SmartScreen 拦截 → 点「更多信息」→「仍要运行」|
+| Windows 10/11 (x64) | `EchoMind_x.y.z_x64-setup.exe` | 双击安装；首次启动 SmartScreen 拦截 → 点「更多信息」→「仍要运行」|
 | macOS (Intel + Apple Silicon) | `EchoMind_x.y.z_universal.dmg` | 拖入 Applications；首次启动 Gatekeeper 拦截 → **右键 →「打开」→ 再次「打开」**（v0.2 暂未做 Apple 签名）|
 
 ## 5 分钟上手
