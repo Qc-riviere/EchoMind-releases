@@ -1,0 +1,65 @@
+EchoMind — Proprietary Software License
+========================================
+
+Copyright (c) 2026 Qc-riviere. All rights reserved.
+
+This repository hosts only documentation, marketing materials, and pre-built
+binary distributions of the EchoMind desktop application ("the Software").
+The source code of the Software is NOT distributed under this license and
+remains the exclusive property of the copyright holder.
+
+1. Grant of Use
+   You are granted a personal, non-exclusive, non-transferable, revocable
+   license to install and use the Software solely for your own internal
+   evaluation, testing, or productivity purposes.
+
+2. Restrictions
+   You may NOT, without prior written consent from the copyright holder:
+   (a) reverse engineer, decompile, disassemble, or otherwise attempt to
+       derive the source code of the Software;
+   (b) modify, adapt, translate, or create derivative works of the Software;
+   (c) sell, rent, lease, sublicense, distribute, or otherwise transfer
+       the Software or any copy thereof to any third party;
+   (d) remove or alter any copyright, trademark, or other proprietary
+       notices contained in the Software;
+   (e) use the Software to provide a competing service or product.
+
+3. Documentation & README
+   The text content of README.md and files under docs/ in this repository
+   may be quoted or referenced for non-commercial commentary, reviews, or
+   reporting purposes, provided that the source is clearly attributed to
+   "EchoMind by Qc-riviere".
+
+4. No Warranty
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+   THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR
+   OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+   ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+   OTHER DEALINGS IN THE SOFTWARE.
+
+5. Data Privacy
+   The Software stores all user data locally by default. Optional cloud
+   features require explicit user consent at the point of activation, with
+   clear disclosure of the data flow involved.
+
+6. Termination
+   This license is effective until terminated. Your rights under this
+   license will terminate automatically without notice if you fail to
+   comply with any term hereof. Upon termination, you must cease all use
+   of the Software and destroy all copies in your possession.
+
+7. Future Open-Source Release
+   The copyright holder reserves the right to release some or all of the
+   Software's source code under a separate open-source license at any
+   future time. Such a release, if it occurs, will be governed by the
+   terms of that future license and will not retroactively alter the
+   terms of this proprietary license for existing binary distributions.
+
+8. Governing Law
+   This license shall be governed by and construed in accordance with the
+   laws of the People's Republic of China, without regard to its conflict
+   of laws provisions.
+
+Contact: open an issue at https://github.com/Qc-riviere/EchoMind-public/issues
