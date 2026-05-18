@@ -6,7 +6,7 @@
 
 ### Windows
 
-1. 从 [Releases](https://github.com/Qc-riviere/EchoMind-public/releases/latest) 下载 `EchoMind_x.y.z_x64-setup.msi`
+1. 从 [Releases](https://github.com/Qc-riviere/EchoMind-releases/releases/latest) 下载 `EchoMind_x.y.z_x64-setup.exe`
 2. 双击安装
 3. **SmartScreen 拦截**？这是因为 v0.2 暂未购买 Microsoft 代码签名证书
    - 点击「**更多信息**」
@@ -15,7 +15,7 @@
 
 ### macOS
 
-1. 从 [Releases](https://github.com/Qc-riviere/EchoMind-public/releases/latest) 下载 `EchoMind_x.y.z_universal.dmg`
+1. 从 [Releases](https://github.com/Qc-riviere/EchoMind-releases/releases/latest) 下载 `EchoMind_x.y.z_universal.dmg`
 2. 拖入 Applications 文件夹
 3. **Gatekeeper 拦截**？这是因为 v0.2 暂未购买 Apple Developer 签名（$99/年）
    - 在 Finder 中找到 EchoMind.app
@@ -147,7 +147,7 @@
 - **AI 调用报错**：「设置 → LLM → 测试连接」检查 Key
 - **微信桥扫不上**：「设置 → 桥接 → 重新绑定」
 - **搜索没结果**：「设置 → Data → 重建向量索引」（修维度切换问题）
-- **崩溃 / 卡死**：去 [Issues](https://github.com/Qc-riviere/EchoMind-public/issues/new) 提报，附操作系统 + 版本号 + 触发步骤
+- **崩溃 / 卡死**：去 [Issues](https://github.com/Qc-riviere/EchoMind-releases/issues/new) 提报，附操作系统 + 版本号 + 触发步骤
 
 ---
 
