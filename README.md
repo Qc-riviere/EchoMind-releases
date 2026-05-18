@@ -6,12 +6,12 @@
 
 跨设备的第二大脑——桌面速记、手机微信落库、AI 自动整理、本地优先存储。
 
-[![Latest Release](https://img.shields.io/github/v/release/Qc-riviere/EchoMind-public?label=最新版本&color=adc7ff)](https://github.com/Qc-riviere/EchoMind-public/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/Qc-riviere/EchoMind-public/total?label=下载量)](https://github.com/Qc-riviere/EchoMind-public/releases)
-[![Platform](https://img.shields.io/badge/平台-Windows%20%7C%20macOS-blue)](https://github.com/Qc-riviere/EchoMind-public/releases/latest)
+[![Latest Release](https://img.shields.io/github/v/release/Qc-riviere/EchoMind-releases?label=最新版本&color=adc7ff)](https://github.com/Qc-riviere/EchoMind-releases/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/Qc-riviere/EchoMind-releases/total?label=下载量)](https://github.com/Qc-riviere/EchoMind-releases/releases)
+[![Platform](https://img.shields.io/badge/平台-Windows%20%7C%20macOS-blue)](https://github.com/Qc-riviere/EchoMind-releases/releases/latest)
 
-[**📥 下载最新版**](https://github.com/Qc-riviere/EchoMind-public/releases/latest) ·
-[**💬 提交反馈**](https://github.com/Qc-riviere/EchoMind-public/issues/new) ·
+[**📥 下载最新版**](https://github.com/Qc-riviere/EchoMind-releases/releases/latest) ·
+[**💬 提交反馈**](https://github.com/Qc-riviere/EchoMind-releases/issues/new) ·
 [**📖 使用文档**](./docs/getting-started.md)
 
 </div>
@@ -39,7 +39,7 @@ EchoMind 是一款定位为「灵感笔记」的桌面 + 微信跨端 App：
 
 ## 下载安装
 
-→ [**前往最新版本下载页**](https://github.com/Qc-riviere/EchoMind-public/releases/latest)
+→ [**前往最新版本下载页**](https://github.com/Qc-riviere/EchoMind-releases/releases/latest)
 
 | 平台 | 包名 | 安装提示 |
 |---|---|---|
@@ -95,7 +95,7 @@ EchoMind 是一款定位为「灵感笔记」的桌面 + 微信跨端 App：
 
 ## 反馈渠道
 
-- 🐛 Bug / 功能建议：[提交 Issue](https://github.com/Qc-riviere/EchoMind-public/issues/new)
+- 🐛 Bug / 功能建议：[提交 Issue](https://github.com/Qc-riviere/EchoMind-releases/issues/new)
 - 💬 微信交流群：（联系作者获取入群方式）
 - 📧 邮件：见 GitHub profile
 
